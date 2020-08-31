@@ -17,7 +17,7 @@ Solid World is an opportunity to meet people who are interested in or currently 
 ### In Other News
 
 #### Solid Implementations
-* 
+* A team of young professionals from Finland have spent six months with Solid, testing various Solid, React libraries and optimized the user experience for a decentralized project management application. The team has developed a B2B Project Management Platform that brings Solid to the Engineering & Manufacturing industries and Engineering-to-Order Industry. The Delivery Portal aims to tackle issues around communication & information flow in complex project environments. Here's a quick preview: https://apurvaganoo.solid.community/public/video3.mp4
 
 #### Funding 
 * 
